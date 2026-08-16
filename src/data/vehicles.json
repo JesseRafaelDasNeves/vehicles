@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "brand": "Toyota",
+    "model": "Corolla XEi",
+    "year": 2023,
+    "color": "Preto",
+    "price": 150000,
+    "licensePlate": "BRA2E19",
+    "createdAt": "2026-01-10T10:00:00.000Z",
+    "updatedAt": "2026-08-16T18:42:45.572Z"
+  },
+  {
+    "id": "2",
+    "brand": "Honda",
+    "model": "Civic Touring",
+    "year": 2022,
+    "color": "Prata",
+    "price": 138000,
+    "licensePlate": "ABC1D23",
+    "createdAt": "2026-01-11T11:30:00.000Z",
+    "updatedAt": "2026-01-11T11:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "brand": "Volkswagen",
+    "model": "Golf GTI",
+    "year": 2021,
+    "color": "Vermelho",
+    "price": 185000,
+    "licensePlate": "GOL4F56",
+    "createdAt": "2026-01-12T14:15:00.000Z",
+    "updatedAt": "2026-01-12T14:15:00.000Z"
+  },
+  {
+    "id": "4",
+    "brand": "Ford",
+    "model": "Mustang GT 5.0",
+    "year": 2020,
+    "color": "Azul",
+    "price": 320000,
+    "licensePlate": "MUS7G89",
+    "createdAt": "2026-01-13T09:45:00.000Z",
+    "updatedAt": "2026-01-13T09:45:00.000Z"
+  },
+  {
+    "id": "5",
+    "brand": "Chevrolet",
+    "model": "Onix Premier",
+    "year": 2024,
+    "color": "Branco",
+    "price": 92000,
+    "licensePlate": "ONI0H12",
+    "createdAt": "2026-01-14T16:20:00.000Z",
+    "updatedAt": "2026-01-14T16:20:00.000Z"
+  },
+  {
+    "id": "6",
+    "brand": "BMW",
+    "model": "320i M Sport",
+    "year": 2023,
+    "color": "Cinza",
+    "price": 290000,
+    "licensePlate": "BMW3I45",
+    "createdAt": "2026-01-15T08:10:00.000Z",
+    "updatedAt": "2026-01-15T08:10:00.000Z"
+  },
+  {
+    "id": "7",
+    "brand": "Hyundai",
+    "model": "HB20 Evolution",
+    "year": 2022,
+    "color": "Preto",
+    "price": 78000,
+    "licensePlate": "HB20J67",
+    "createdAt": "2026-01-16T13:00:00.000Z",
+    "updatedAt": "2026-01-16T13:00:00.000Z"
+  },
+  {
+    "id": "8",
+    "brand": "Nissan",
+    "model": "Kicks Exclusive",
+    "year": 2023,
+    "color": "Vermelho",
+    "price": 115000,
+    "licensePlate": "KIC8K90",
+    "createdAt": "2026-01-17T17:40:00.000Z",
+    "updatedAt": "2026-01-17T17:40:00.000Z"
+  },
+  {
+    "id": "9",
+    "brand": "Jeep",
+    "model": "Renegade Longitude",
+    "year": 2022,
+    "color": "Verde",
+    "price": 125000,
+    "licensePlate": "JEP5L12",
+    "createdAt": "2026-01-18T10:05:00.000Z",
+    "updatedAt": "2026-01-18T10:05:00.000Z"
+  },
+  {
+    "id": "10",
+    "brand": "Jeep",
+    "model": "Compass Limited",
+    "year": 2024,
+    "color": "Prata",
+    "price": 195000,
+    "licensePlate": "COM9M34",
+    "createdAt": "2026-01-19T12:30:00.000Z",
+    "updatedAt": "2026-01-19T12:30:00.000Z"
+  }
+]
